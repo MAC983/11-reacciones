@@ -1,0 +1,55 @@
+h2, h3, p, div{
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {    
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.fecha {
+    font-size: 11px;
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+}
+
+.i, p {
+    font-size: 13px;
+}
+
+div {
+    width: max-content;
+    height: 25px;
+    background-color: grey;
+}
+
+span {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.color1 {
+    color: rgb(255, 0, 212);
+}
+
+.color2 {
+    color: rgb(4, 124, 243);
+}
+
+.color3 {
+    color: rgb(12, 209, 6);
+}
+
+.color4 {
+    color: orange;
+}
+
+.color5 {
+    color: rgb(247, 7, 39);
+}
